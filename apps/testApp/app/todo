@@ -1,0 +1,1 @@
+add appheader.py - a file that knows where to find the SDK's and import them - small enough to be shipped with every app

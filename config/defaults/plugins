@@ -1,0 +1,4 @@
+[loading]
+plugin_blacklist = add_a_plugin_here_to_make_pluginInitializer_ignore_it
+plugin_safe_mode = off ; disable non-essential plugins
+plugins_essential = CrashMenu
