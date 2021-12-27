@@ -1,5 +1,5 @@
 # Servr Co OS
-## An open source desktop environment
+## A Debian-based Linux distro, still in development.
 
 ### What is Servr Co OS?
 Servr Co OS is a nice open source (currently very incomplete) desktop environment, designed to run on top of Lubuntu.
